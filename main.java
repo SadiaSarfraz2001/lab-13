@@ -7,7 +7,7 @@ class Marksheet {
 
 	 String name, fname,rollno;    
 	 int i, gtotal=0,count=0;
-	 String subject[] = { " Mathematics ", " Programming ", " Physics "," Computer "," Econimics "," DataBase "}; 
+	 String subject[] = { "SD ", " Programming ", " Physics "," Computer "," Econimics "," DataBase "}; 
 	 String subcode[]= { "MA-102","PR-103","PY-101","CP-103","EN-101","DB-101"};
 	 int midmarks[]= new int[6];
 	 int semmarks[]= new int[6];
